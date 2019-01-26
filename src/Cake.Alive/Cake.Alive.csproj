@@ -46,7 +46,9 @@
   <ItemGroup>
     <Compile Include="Alive.cs" />
     <Compile Include="AliveAliases.cs" />
+    <Compile Include="AliveSettings.cs" />
     <Compile Include="ExceptionHandler.cs" />
+    <Compile Include="NotAliveException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
